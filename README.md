@@ -2,21 +2,24 @@
 
 # Hi there, I'm Ivan Pažanin 👋
 
-## I'm a Developer, C# .NET enthusiast and Computer Science geek 🤓!
+## About Me
 
-- 🌱 I’m currently learning C#, .NET 5, kubernetes, jenkins and pretty much everything else I find interesting 🤣
-- 🥅 2020 Goals: learn kubernetes
-- ⚡ Fun fact: I love to do evening runs
+I'm software developer 💻, engineer 🔧 and Snowboarder 🏂 from Split Croatia 🇭🇷.
+
+## What do I do
+
+I professionally work as .NET engineer.
 
 ---
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="IvanPazanin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<img align="left" alt="IvanPazanin | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 <br />
 
-### Languages and Tools:
+---
+
+### Languages and Tools
 
 <img align="left" alt="C#" style="margin-right:2px;" style="margin-right:2px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt=".NET" style="margin-right:2px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
@@ -32,5 +35,3 @@
 
 <br />
 <br />
-
-[linkedin]: https://www.linkedin.com/in/ivan-pa%C5%BEanin-398638182/
