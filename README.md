@@ -10,6 +10,11 @@ I'm software developer 💻, engineer 🔧 and Snowboarder 🏂 from Split Croat
 
 I professionally work as .NET engineer.
 
+## Support my work
+
+If one of my projects is useful to you, you can [buy me a coffee](https://buymeacoffee.com/ipazanin).
+Support is completely optional.
+
 ---
 
 ### Connect with me
